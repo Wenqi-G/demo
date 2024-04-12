@@ -1,6 +1,9 @@
-#include <stdio>
+#include <iostream>
+using namespace std;
+ 
 
-void main()
+int main()
 {
-  return;
+  scout << "Hello World"; 
+  return 0;
 }
